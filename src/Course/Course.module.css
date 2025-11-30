@@ -13,8 +13,7 @@
     width: 20vw;
     margin-bottom:4%;
     border-radius: 10px;
-    border: 1px solid black;
-    box-shadow: 0px 0px 20px white;
+    box-shadow: 1px 1px 10px;
 }
 
 .p{
